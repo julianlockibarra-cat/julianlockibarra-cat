@@ -2,5 +2,5 @@
 
 i'm just a someone on the internet hosting unblocked HTML5 games on Github!
 Click here for my Youtube:<a href="https://www.youtube.com/@COOLCAT-MEOW" target="_blank" rel="noopener noreferrer">
-  <img src="https://user-images.githubusercontent.com/74038190/235294007-de441046-823e-4eff-89bf-d4df52858b65.gif" alt="youtube" width="100">
+  <img src="https://user-images.githubusercontent.com/74038190/235294007-de441046-823e-4eff-89bf-d4df52858b65.gif" alt="Youtube link CLICK ME" width="100">
 </a>
